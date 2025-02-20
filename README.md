@@ -140,4 +140,21 @@
 - PRENDO lo scontrino  
 - RACCOLGO la spesa nelle borse  
 - RIPONGO il carrello se usato  
-- TORNO a casa
+- TORNO a casa  
+
+- SE arrivo a casa  
+  - APRO la porta  
+  - PORTO dentro le borse  
+  - SE ci sono prodotti da frigo  
+    - CERCO il frigo  
+    - APRO il frigo  
+    - METTO i prodotti dentro il frigo  
+  - SE ci sono altri alimenti  
+    - CERCO la dispensa  
+    - APRO la dispensa  
+    - METTO gli altri alimenti dentro la dispensa  
+  - SE ci sono crocchette per Ricky  
+    - CERCO la ciotola di Ricky  
+    - PRENDO la ciotola  
+    - VERSO le crocchette nella ciotola
+    - ACCAREZZO Ricky
