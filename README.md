@@ -2,8 +2,6 @@
 - SE lo trovo
   - APRO il frigo e dentro.
     - CONTROLLO se ci sono X alimenti
-      - SE si 
-        - CHIUDO il frigo
       - SE NO
         - PRENDO il telefono dalla tasca
         - SBLOCCO il telefono
@@ -20,8 +18,6 @@
     - Ci vado davanti
   - APRO la dispensa
     - CONTROLLO se ci sono X alimenti
-      - SE si 
-        - CHIUDO la dispensa
       - SE NO
         - PRENDO il telefono dalla tasca
         - SBLOCCO il telefono
@@ -36,8 +32,6 @@
   - CERCO lo scaffale del cibo di Ricky
   - SE lo trovo
     - CONTROLLO se c’è cibo sufficiente per Ricky
-      - SE si
-        - SMETTO di guardare lo scaffale
       - SE NO
         - PRENDO il telefono dalla tasca
         - SBLOCCO il telefono
@@ -46,4 +40,33 @@
         - SE ho scritto tutto
           - SALVO
           - BLOCCO il telefono
-    - SMETTO di guardare lo scaffale
+      - SMETTO di guardare lo scaffale
+
+- SE ho finito di controllare il cibo  
+  - CERCO il portafogli  
+  - SE lo trovo  
+    - LO APRO  
+    - CONTROLLO quanti contanti ci sono  
+      - LI CONTO e li memorizzo  
+        - CHIUDO il portafogli  
+      - SE NO  
+        - CONTROLLO se ho la carta di debito  
+        - SE ho la carta  
+          - SBLOCCO il telefono
+          - CERCO l'app della banca
+          - SE la trovo
+            - APRO l'app della banca
+            - MEMORIZZO quanti soldi ci sono nel conto
+            - BLOCCO il telefono
+        - SE NO  
+          - CHIUDO il portafogli
+          - CERTO tutta la casa per la carta di debito
+           - SE la trovo
+            - SBLOCCO il telefono
+            - CERCO l'app della banca
+            - SE la trovo
+              - APRO l'app della banca
+              - MEMORIZZO quanti soldi ci sono nel conto
+              - BLOCCO il telefono
+      - SE non ho CHIUSO il portafogli, CHIUDO il portafogli
+      - SENNO continuo
