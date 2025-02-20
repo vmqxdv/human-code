@@ -108,4 +108,13 @@
         - LO METTO nel carrello/cestino  
         - SPUNTO il prodotto dalla lista  
     - SE NON trovo il prodotto  
-      - PASSO al prossimo
+      - PASSO al prossimo  
+
+- CONTROLLO se voglio prendere uno snack extra  
+- SE vedo qualcosa che mi piace  
+  - CONTROLLO il prezzo  
+    - SE il prezzo rientra nel budget  
+      - PRENDO lo snack  
+      - LO METTO nel carrello  
+    - SE il prezzo è troppo alto  
+      - LO LASCIO sullo scaffale
