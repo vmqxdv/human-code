@@ -117,4 +117,11 @@
       - PRENDO lo snack  
       - LO METTO nel carrello  
     - SE il prezzo è troppo alto  
-      - LO LASCIO sullo scaffale
+      - LO LASCIO sullo scaffale  
+
+- SE ho preso tutto  
+  - VADO verso la cassa  
+  - SE c'è una cassa automatica e ho pochi articoli  
+    - USO la cassa automatica  
+  - SE ho molti articoli  
+    - SCELGO una cassa con cassiere
