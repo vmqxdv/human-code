@@ -158,3 +158,8 @@
     - PRENDO la ciotola  
     - VERSO le crocchette nella ciotola
     - ACCAREZZO Ricky
+
+- SE tutto è sistemato  
+  - MI RILASSO  
+  - SE ho preso uno snack  
+    - LO MANGIO  
