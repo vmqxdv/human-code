@@ -1,0 +1,15 @@
+- CERCO IL FRIGO
+- SE lo trovo
+  - APRO il frigo e dentro.
+    - CONTROLLO se ci sono X alimenti
+      - SE si 
+        - CHIUDO il frigo
+      - SE NO
+        - PRENDO il telefono dalla tasca
+        - SBLOCCO il telefono
+        - APRO l'app delle note
+        - SCRIVO gli ingredienti mancanti
+        - SE ho scritto tutto
+          - SALVO
+          - BLOCCO il telefono
+      - CHIUDO il frigo
