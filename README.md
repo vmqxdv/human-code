@@ -80,3 +80,12 @@
           - CERCO un cestino E SE lo trovo 
             - LO BUTTO via
           - SENNO lo rimetto nel portafoglio
+
+- SE ho tutto pronto  
+  - CERCO le chiavi di casa  
+  - SE le trovo  
+    - PRENDO le chiavi  
+    - MI ASSICURO di avere telefono, portafogli e chiavi  
+    - INDOSSO vestiti necessari  
+    - ESCO di casa  
+    - CHIUDO la porta
