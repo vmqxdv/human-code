@@ -135,4 +135,9 @@
   - SE il totale è superiore ai contanti disponibili  
     - USO la carta
   - SE ne i CONTANTI ne IL CREDITO sulla carta è abbasta
-    - LASCIO n alimenti per far si che posso pagare
+    - LASCIO n alimenti per far si che posso pagare  
+
+- PRENDO lo scontrino  
+- RACCOLGO la spesa nelle borse  
+- RIPONGO il carrello se usato  
+- TORNO a casa
