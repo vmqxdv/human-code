@@ -95,4 +95,17 @@
   - SE arrivo al supermercato  
     - PRENDO un carrello se la spesa è grande  
     - SE la spesa è piccola  
-      - PRENDO un cestino
+      - PRENDO un cestino  
+
+- APRO la lista della spesa sul telefono  
+- SE la lista è aperta  
+  - PER OGNI prodotto nella lista  
+    - CERCO lo scaffale corrispondente  
+    - SE trovo il prodotto  
+      - CONTROLLO prezzo e quantità  
+      - SE il prezzo va bene  
+        - PRENDO il prodotto  
+        - LO METTO nel carrello/cestino  
+        - SPUNTO il prodotto dalla lista  
+    - SE NON trovo il prodotto  
+      - PASSO al prossimo
