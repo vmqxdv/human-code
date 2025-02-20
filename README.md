@@ -13,3 +13,21 @@
           - SALVO
           - BLOCCO il telefono
       - CHIUDO il frigo
+
+- SE il frigo è chiuso 
+  - CERCO la dispensa
+  - SE la trovo
+    - Ci vado davanti
+  - APRO la dispensa
+    - CONTROLLO se ci sono X alimenti
+      - SE si 
+        - CHIUDO la dispensa
+      - SE NO
+        - PRENDO il telefono dalla tasca
+        - SBLOCCO il telefono
+        - APRO l'app delle note
+        - SCRIVO gli ingredienti mancanti
+        - SE ho scritto tutto
+          - SALVO
+          - BLOCCO il telefono
+      - CHIUDO la dispensa
