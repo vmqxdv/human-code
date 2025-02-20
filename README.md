@@ -88,4 +88,11 @@
     - MI ASSICURO di avere telefono, portafogli e chiavi  
     - INDOSSO vestiti necessari  
     - ESCO di casa  
-    - CHIUDO la porta
+    - CHIUDO la porta  
+
+- SE sono fuori casa  
+  - MI DIRIGO verso il supermercato  
+  - SE arrivo al supermercato  
+    - PRENDO un carrello se la spesa è grande  
+    - SE la spesa è piccola  
+      - PRENDO un cestino
