@@ -31,3 +31,19 @@
           - SALVO
           - BLOCCO il telefono
       - CHIUDO la dispensa
+
+- SE la dispensa è chiusa
+  - CERCO lo scaffale del cibo di Ricky
+  - SE lo trovo
+    - CONTROLLO se c’è cibo sufficiente per Ricky
+      - SE si
+        - SMETTO di guardare lo scaffale
+      - SE NO
+        - PRENDO il telefono dalla tasca
+        - SBLOCCO il telefono
+        - APRO l'app delle note
+        - SCRIVO gli ingredienti mancanti
+        - SE ho scritto tutto
+          - SALVO
+          - BLOCCO il telefono
+    - SMETTO di guardare lo scaffale
