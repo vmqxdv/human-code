@@ -69,4 +69,14 @@
               - MEMORIZZO quanti soldi ci sono nel conto
               - BLOCCO il telefono
       - SE non ho CHIUSO il portafogli, CHIUDO il portafogli
-      - SENNO continuo
+      - SENNO continuo  
+
+    - CERCO il coupon sconto  
+    - SE lo trovo  
+      - CONTROLLO la data di scadenza  
+        - SE il coupon è valido  
+          - LO METTO nel portafogli  
+        - SE il coupon è scaduto 
+          - CERCO un cestino E SE lo trovo 
+            - LO BUTTO via
+          - SENNO lo rimetto nel portafoglio
