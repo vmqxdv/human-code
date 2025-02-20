@@ -124,4 +124,15 @@
   - SE c'è una cassa automatica e ho pochi articoli  
     - USO la cassa automatica  
   - SE ho molti articoli  
-    - SCELGO una cassa con cassiere
+    - SCELGO una cassa con cassiere  
+
+- SE è il mio turno alla cassa  
+  - METTO i prodotti sul nastro  
+  - SE ho un coupon valido  
+    - LO CONSEGNO alla cassiere  
+  - SE il totale è inferiore ai contanti disponibili  
+    - PAGO in contanti  
+  - SE il totale è superiore ai contanti disponibili  
+    - USO la carta
+  - SE ne i CONTANTI ne IL CREDITO sulla carta è abbasta
+    - LASCIO n alimenti per far si che posso pagare
