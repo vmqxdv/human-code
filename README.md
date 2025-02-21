@@ -170,3 +170,12 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
   - SE ho preso uno snack  
     - LO MANGIO
 ```
+
+- CERCO la pratica cartacea smarrita nell’ufficio
+- SE la trovo
+  - RACCOLGO tutti i fogli
+  - CONTROLLO se i fogli sono in ordine e completi
+    - SE mancano pagine o risultano disordinati
+      - CERCO i fogli mancanti negli archivi o nei cassetti
+        - QUANDO ho finito, li conservo
+
