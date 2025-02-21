@@ -179,3 +179,14 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
       - CERCO i fogli mancanti negli archivi o nei cassetti
         - QUANDO ho finito, li conservo
 
+- CERCO lo scanner
+- SE lo scanner è spento o in pausa
+  - ACCENDO lo scanner e verifico il corretto funzionamento
+- PER OGNI foglio della pratica
+  - POSIZIONO il lato anteriore sul vassoio dello scanner
+  - AVVIO la scansione del lato anteriore
+  - SE la scansione va a buon fine
+    - ROVESCO il foglio per scansionare il retro
+    - AVVIO la scansione del lato posteriore
+  - SE la scansione non è soddisfacente
+    - RIPETO la scansione del foglio
