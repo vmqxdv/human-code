@@ -190,3 +190,13 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
     - AVVIO la scansione del lato posteriore
   - SE la scansione non è soddisfacente
     - RIPETO la scansione del foglio
+
+- RACCOLGO tutte le scansioni in un unico file digitale
+- CONTROLLO la qualità del file
+  - SE noto errori
+    - RIPETO la scansione dei fogli problematici
+- SALVO il file in formato PDF
+- ARCHIVIO il file digitale nella cartella dell’ufficio dedicata agli archivi
+- RIPOSIZIONE i fogli originali nell’archivio cartaceo
+- SE tutto è in ordine
+  - MI RILASSO
